@@ -4,4 +4,5 @@ make Gimli agility extraordinaire
 
 add a branch (version2) to your master file (complete)
 commit the updated todo.txt to the new branch called version2
-ADDING AN EXTRA LINE IN VERSION2
+ADDING CHANGE TO CREATE CONFLICT.
+
