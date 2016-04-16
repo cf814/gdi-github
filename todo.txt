@@ -2,8 +2,5 @@ work on D3 and R-plotly for CTA data
 Edgewater gardens site
 make Gimli agility extraordinaire
 
-add a branch (version2) to your master file (complete)
-commit the updated todo.txt to the new branch called version2
-ADDING CHANGE TO CREATE CONFLICT.
-
-adding a line to do a pull request
+adding another line in version3
+deleted a bunch of the old stuff. 
